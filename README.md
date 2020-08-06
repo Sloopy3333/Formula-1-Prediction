@@ -56,7 +56,7 @@ pip install -r requirements.txt
 Application is developed with [Flask framework for python](https://flask.palletsprojects.com/en/1.1.x/ "Flask Documentation") and deployed on [Heroku](https://devcenter.heroku.com/start "Heroku").
 
 
-### Try the application [here]("https://f1predictor.herokuapp.com/predict" "f1predictor")
+### Try the application [here](https://f1predictor.herokuapp.com/predict "f1predictor")
 
 
 
