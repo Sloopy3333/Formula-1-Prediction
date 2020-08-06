@@ -1,4 +1,4 @@
-# Stock Screaner with Plotly Dash 
+# Formula 1 Race Prediction
 
 
 # Table of contents
