@@ -30,6 +30,7 @@ In case you dont know this is what a modren Formula one car looks like.
 ## Project Overview<a name  = "Overview"></a>
 
 This project aims towards understanding the data of past Formula 1 races and predict the outcome of the race for user inputs by using Machine Learning Algorithms.
+checkout the [ipython notebook](https://github.com/SampathHN/Formula-1-Prediction/blob/master/F1.ipynb "F1.ipynb") for data exploration and model building
  
 
 
