@@ -14,7 +14,7 @@
 
 
 ## Introduction <a name="introduction"></a>
- This project is a Machine Learning project using [Sikit-learn]('https://scikit-learn.org/stable/index.html' "Sikit-Learn Documentation") module in [Python]('https://www.python.org/downloads/release/python-361/ "Download Python 3.6.1") to predict the Formula 1 race result   
+ This project is a Machine Learning project using [Sikit-learn]('https://scikit-learn.org/stable/index.html' "Sikit-Learn Documentation") module in [Python]('https://www.python.org/downloads/release/python-361/ "Download Python 3.6.1") to predict the Formula 1 race result.
 
 
 
@@ -53,10 +53,10 @@ pip install -r requirements.txt
 
 ## Deployment<a name  = "deployment"></a>
 
-Application is developed with [Flask framework for python](''https://flask.palletsprojects.com/en/1.1.x/ "Flask Documentation") and deployed on [Heroku]('https://dashboard.heroku.com/' "Heroku")
+Application is developed with [Flask framework for python](https://flask.palletsprojects.com/en/1.1.x/ "Flask Documentation") and deployed on [Heroku](https://devcenter.heroku.com/start "Heroku").
 
 
-### Checkout the application [here]("https://f1predictor.herokuapp.com/predict" "f1predictor")
+### Try the application [here]("https://f1predictor.herokuapp.com/predict" "f1predictor")
 
 
 
@@ -70,8 +70,8 @@ Application is developed with [Flask framework for python](''https://flask.palle
      <td></td>
   </tr>
   <tr>
-    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7xn0jx3Lh46WEZYJxDKSKAHaCp%26pid%3DApi&f=1" width=270 height=480></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" width=270 height=240></td>
+    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7xn0jx3Lh46WEZYJxDKSKAHaCp%26pid%3DApi&f=1" width=270 height=240></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" width=240 height=240></td>
     
   </tr>
  </table>
@@ -84,7 +84,7 @@ Application is developed with [Flask framework for python](''https://flask.palle
      <td></td>
   </tr>
   <tr>
-    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OBF_Vq_-N8HcMOPTzBnJ9AHaCy%26pid%3DApi&f=1" width=480 height=480></td>
+    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OBF_Vq_-N8HcMOPTzBnJ9AHaCy%26pid%3DApi&f=1" width=480 height=240></td>
     
   </tr>
  </table>
