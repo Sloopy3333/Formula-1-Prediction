@@ -17,7 +17,7 @@ def predict_position():
     my_prediction = predictor.pred(driver,constructor,quali,circuit)
     return render_template('index.html',prediction=my_prediction)
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
 
 # prediction = predictor.pred('British Grand Prix',3,'Red Bull','Max Verstappen')
 # print(prediction)
